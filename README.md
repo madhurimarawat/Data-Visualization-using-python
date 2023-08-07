@@ -31,6 +31,29 @@ This repository contains data visualization programs on various datasets done us
 
 # Dataset Used
 
+<h2>Housing Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/yasserh/housing-prices-dataset"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Housing Dataset" alt="Housing Dataset"> </a><br><br>
+--> CSV file which contains house pricing data.<br><br>
+--> Price of house with respect to area and other basic amenties.<br>
+
+<h2>Rainfall Prediction Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/rajanand/rainfall-in-india"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Housing Dataset" alt="Housing Dataset"> </a><br><br>
+--> CSV file which contains the rainfall data.<br><br>
+--> Sub-division wise monthly data for 115 years from 1901-2015.<br>
+
+<h2>Buisness Dataset</h2>
+--> Dataset is taken from: <a href="https://www.stats.govt.nz/assets/Uploads/Business-financial-data/Business-financial-data-September-2022-quarter/Download-data/business-financial-data-september-2022-quarter.xlsx"><img src="https://www.stats.govt.nz/themes/stats/images/logo.svg" height=40 width=40 title="Buisness Dataset" alt="Buisness Dataset"></a><br><br>
+--> Business financial data provides sales, purchases, salaries and wages, and operating profit estimates for most market industries in New Zealand, and information on stocks for selected industries.<br><br>
+--> This collection uses a combination of survey, tax, and other administrative data.<br>
+
+<h2>Sales Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/kyanyoga/sample-sales-data"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Sales Dataset" alt="Sales Dataset"> </a><br><br>
+--> CSV file which contains the sales data.<br><br>
+
+<h2>Mineral ores round the world Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/ramjasmaurya/mineral-ores-around-the-world"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Minerals Dataset" alt="Minerals Dataset"> </a><br><br>
+--> Dataset of minerals found around the world.<br>
+
 <h2>Automobile Dataset</h2>
 --> Dataset is taken from: <a href="https://gist.github.com/lauvshree/20ee07bfaa6d97364006fc2320092526">🔗<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height =40 width=40 title="Automobile Dataset" alt="Automobile Dataset"> </a><br><br>
 --> This contains data about various automobile in Comma Separated Value (CSV) format.<br><br>
