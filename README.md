@@ -36,6 +36,7 @@ This repository contains data visualization programs on various datasets done us
 
 ---
 #  Various Libraries in Python for Data Visualization
+To install python library this command is used- pip install library_name <br><br>
 <img src= "https://github.com/madhurimarawat/Data-Visualization-using-python/assets/105432776/e15f70d3-4924-4e7e-9275-57fe51f30c3b" width=1010 title="Various libraries in Python for Data Visualization" alt="python Library">
 
 ---
