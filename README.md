@@ -35,6 +35,31 @@ This repository contains data visualization programs on various datasets done us
 --> Files are directly saved in Google Drive.<br>
 
 ---
+
+## Table Of Contents 📔 🔖 📑
+
+1. Download the House Pricing dataset from Kaggle and map the values to Aesthetics.
+
+2. Use different Color scales on the Rainfall Prediction dataset.
+
+3. Create different Bar plots for variables in any dataset.
+
+4. Show an example of Skewed data and removal of skewedness.
+
+5. For a sales dataset do a Time Series Visualization.
+
+6. Build a Scatterplot and suggest dimension reduction.
+
+7. Use Geospatial Data-Projections on datasets.
+   
+9. Create the a trend line with a confidence band in any suitable dataset.
+
+10. Illustrate Partial Transparency and Jittering.
+
+11. Illustrate usage of different color codes.
+
+
+---
 #  Various Libraries in Python for Data Visualization
 To install python library this command is used-
 ```
