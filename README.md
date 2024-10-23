@@ -1,4 +1,5 @@
 # Data-Visualization-using-python
+
 This repository contains data visualization programs on various datasets done using python.
 
 <h1> Data Visualization</h1>
@@ -12,10 +13,12 @@ This repository contains data visualization programs on various datasets done us
 --> The concept of using pictures is to understand data that has been used for centuries. General types of data visualization are Charts, Tables, Graphs, Maps, Dashboards.
 
 ---
+
 <h1> Various forms of Data Visualization</h1>
 <img src="https://github.com/madhurimarawat/Data-Visualization-using-python/assets/105432776/65a0869d-2263-4f47-874a-26f95244e70b" title="Various forms of Data Visualization" alt="Various forms of Data Visualization" width=1010>
 
 ---
+
 # About Python Programming
 
 --> Python is a high-level, general-purpose, and very popular programming language.<br><br>
@@ -25,7 +28,7 @@ This repository contains data visualization programs on various datasets done us
 
 ---
 
-# Mode of Execution Used  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="40" height="40">
+# Mode of Execution Used <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="40" height="40">
 
 --> Colaboratory, or “Colab” for short, is a product from Google Research which allows anybody to write and execute python code in Jupyter notebook through the browser.<br><br>
 --> Visit colab at:&nbsp; <a href="https://colab.research.google.com/"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="40" height="40"></a><br><br>
@@ -38,33 +41,56 @@ This repository contains data visualization programs on various datasets done us
 
 ## Table Of Contents 📔 🔖 📑
 
-1. Download the House Pricing dataset from Kaggle and map the values to Aesthetics.
+### 1. [House Pricing Dataset - Aesthetics Mapping](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%201%20House%20pricing%20dataset.ipynb)
 
-2. Use different Color scales on the Rainfall Prediction dataset.
+**Description:** In this experiment, we download the House Pricing dataset from Kaggle and map the values to various aesthetics using visualizations such as color, shape, and size to represent the data features.
 
-3. Create different Bar plots for variables in any dataset.
+### 2. [Rainfall Prediction - Different Color Scales](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%202%20Rainfall%20Prediction%20Color%20Scales.ipynb)
 
-4. Show an example of Skewed data and removal of skewedness.
+**Description:** This experiment involves using different color scales to visualize the Rainfall Prediction dataset. We explore the impact of various color palettes and their readability in different visual contexts.
 
-5. For a sales dataset do a Time Series Visualization.
+### 3. [Bar Plots for Dataset Variables](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%203%20Bar%20plots%20for%20variable.ipynb)
 
-6. Build a Scatterplot and suggest dimension reduction.
+**Description:** We create different bar plots to represent categorical variables from a given dataset, providing insights into the distribution and comparison across categories.
 
-7. Use Geospatial Data-Projections on datasets.
-   
-9. Create the a trend line with a confidence band in any suitable dataset.
+### 4. [Skewed Data - Detection and Removal](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%204%20Skewedness%20and%20Removal%20of%20Skewedness.ipynb)
 
-10. Illustrate Partial Transparency and Jittering.
+**Description:** This experiment demonstrates how to identify skewed data, visualize its distribution, and apply transformations to remove skewness for more accurate analysis.
 
-11. Illustrate usage of different color codes.
+### 5. [Time Series Visualization for Sales Data](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%205%20Time%20Series%20Visualization.ipynb)
 
+**Description:** A time series visualization is performed on a sales dataset, showcasing trends, seasonality, and patterns in the data over time.
+
+### 6. [Scatterplot with Dimension Reduction Suggestions](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%206%20Dimension%20Reduction.ipynb)
+
+**Description:** A scatterplot is created for a dataset, followed by recommendations for dimension reduction techniques such as PCA or t-SNE to simplify the data while preserving key information.
+
+### 7. [Geospatial Data and Projections](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%207%20Geospatial%20Data%20Projections.ipynb)
+
+**Description:** This experiment covers the use of geospatial data and applying various projections to visualize geographical datasets accurately on different types of maps.
+
+### 8. [Trend Line with Confidence Band](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%208%20Trend%20Line%20and%20Confidence%20Band.ipynb)
+
+**Description:** A trend line is plotted with a confidence band to showcase the relationship between variables in a dataset, offering insights into trends and uncertainty around predictions.
+
+### 9. [Partial Transparency and Jittering](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%209%20Partial%20Transparency%20and%20Jittering.ipynb)
+
+**Description:** This experiment illustrates the use of partial transparency and jittering in scatter plots to handle overlapping points and improve clarity in dense data visualizations.
+
+### 10. [Usage of Different Color Codes](https://github.com/madhurimarawat/Data-Visualization-using-python/blob/main/Experiment%2010%20Use%20of%20Color%20Codes.ipynb)
+
+**Description:** The experiment explores how different color codes (RGB, HEX, and named colors) can be applied to enhance data visualizations, improving the visual appeal and understanding of complex datasets.
 
 ---
-#  Various Libraries in Python for Data Visualization
+
+## Various Libraries in Python for Data Visualization
+
 To install python library this command is used-
+
 ```
-pip install library_name 
+pip install library_name
 ```
+
 <img src= "https://github.com/madhurimarawat/Data-Visualization-using-python/assets/105432776/e15f70d3-4924-4e7e-9275-57fe51f30c3b" width=1010 title="Various libraries in Python for Data Visualization" alt="python Library">
 
 ---
@@ -109,6 +135,7 @@ pip install library_name
 --> The csv file is already preprocessed ,thus their is no need for data cleaning.<br>
 
 ---
+
 <h1>Libraries Used</h1>
 <p>Short Description about all libraries used.</p>
 <ul>
@@ -132,5 +159,5 @@ machine learning algorithms such as classification, prediction, etc.</li>
 
 Drop a 🌟 if you find this repository useful.<br><br>
 If you have any doubts or suggestions, feel free to reach me.<br><br>
-📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
 <a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a>
